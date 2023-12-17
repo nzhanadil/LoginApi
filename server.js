@@ -7,6 +7,13 @@ const port  = process.env.PORT || 8000;
 
 server.use(express.json())
 
+server.use((req, res, next) => {
+    res.setHeader("Access-Control-Allow-Origin", "*");
+    res.setHeader("Access-Control-Allow-Methods", "POST, GET, PUT");
+    res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+    next();
+})
+
 
 server.get('/', async (req, res)=>{
     try{
