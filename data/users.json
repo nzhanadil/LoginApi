@@ -12,5 +12,12 @@
         "fullName": "Tester Automation",
         "username": "devops",
         "password": "dev123"
+    },
+    {
+        "id": "223cdca2-9650-46b3-9899-707112baewrr",
+        "phoneNumber": "1e12",
+        "fullName": "Hellow rodl",
+        "username": "niene",
+        "password": "efewds"
     }
 ]
