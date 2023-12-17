@@ -1,0 +1,16 @@
+[
+    {
+        "id": "f302617b-a30d-4f05-abe7-fa01a09dd41f",
+        "phoneNumber": "1212",
+        "fullName": "Tester Automation",
+        "username": "newuser",
+        "password": "passhackfuck"
+    },
+    {
+        "id": "223cdca2-9650-46b3-9899-707112ba42d7",
+        "phoneNumber": "1212",
+        "fullName": "Tester Automation",
+        "username": "devops",
+        "password": "dev123"
+    }
+]
